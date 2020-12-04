@@ -1,0 +1,12 @@
+name: PicknStats
+title: PicknStats
+username:
+account: picknstats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2254181
+bundleId: 3256356
+url: https://picknstats.shinyapps.io/PicknStats/
+when: 1591869704.55457
+asMultiple: FALSE
+asStatic: FALSE
