@@ -10,4 +10,4 @@ Screenshot of the Homepage of the site:
 ![alt text](https://github.com/SimosLeei/PicknStats/blob/main/Scrennshots/Picknstats.png)
 
 And of the Shiny App:
-https://github.com/SimosLeei/PicknStats/blob/main/Scrennshots/Rshiny.png
+![alt text](https://github.com/SimosLeei/PicknStats/blob/main/Scrennshots/Rshiny.png)
