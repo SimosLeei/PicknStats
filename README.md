@@ -7,4 +7,7 @@ Containing an interactive R Shiny app that allows users to get the desired graph
 Also, includes documentation explaining the variables and the app's functions.
 
 Screenshot of the Homepage of the site: 
-![alt text](https://github.com/SimosLeei/PicknStats/Screenshots/Picknstats.png?raw=true)
+![alt text](https://github.com/SimosLeei/PicknStats/blob/main/Scrennshots/Picknstats.png)
+
+And of the Shiny App:
+https://github.com/SimosLeei/PicknStats/blob/main/Scrennshots/Rshiny.png
